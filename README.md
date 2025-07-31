@@ -1,6 +1,13 @@
 ## Hello! I'am Gabrielly, Python Developer!
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
+ 
+# Oie Pessoal!!
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Meu nome é Gabrielly Santos, sou programadora de Python da fábrica de programadores do Senai!
+
 
   <div align="center">
   <a href="https://github.com/G4byyS4nt0s">
@@ -19,6 +26,11 @@
 <div> 
   <a href="https://instagram.com/g4byys4nt0s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabyolivysantos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div align="center">
+  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/></a>
+</div>
+
 </div>
 
 <picture>
