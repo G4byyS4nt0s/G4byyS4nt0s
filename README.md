@@ -29,15 +29,6 @@ Meu nome é Gabrielly Santos, sou programadora de Python da fábrica de programa
 </div>
 ## 
 
- # 🎵 Músicas recem tocadas:
- 
-<br>
-<div align="center">
-  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
-    <img src="https://open.spotify.com/user/31eippqmobb7gagujxrcet7cxkw4?si=2mUyccGFSQ2ac-PacccClA&nd=1&dlsi=94adee2fa2984411&unique=false" alt="Musicas recem tocadas." width="500"/>
-  </a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
