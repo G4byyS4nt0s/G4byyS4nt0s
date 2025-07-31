@@ -28,7 +28,8 @@ Meu nome é Gabrielly Santos, sou programadora de Python da fábrica de programa
   <a href = "mailto:gabyolivysantos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <div align="center">
   <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/></a>
+  https://open.spotify.com/playlist/0BgIdA6fwjk3xqy9Q7tXzI?si=5VY9CIk-QCuEvQISYJvjMw&pi=0PLw0XsdQMevR
+  
 </div>
 
 </div>
